@@ -48,13 +48,6 @@ jobs:
             #     source .venv/bin/activate
             #     python -m terraform_pytest.main patch
 
-            # - name: Apply Terraform Plugin Sdk Patch
-            #     run: |
-            #         cd terraform-provider-aws
-            #         sdk_version=$(go list -m github.com/hashicorp/terraform-plugin-sdk/v2 | sed -n -e 's/^.* //p')
-            #         go mod edit --replace github.com/hashicorp/terraform-plugin-sdk/v2=github.com/cloutierMat/terraform-plugin-sdk/v2@${sdk_version}-001
-            #         go mod tidy
-
             - name: Run GoReleaser
               uses: goreleaser/goreleaser-action@f82d6c1c344bcacabba2c841718984797f664a6b # v4.2.0
               with:
