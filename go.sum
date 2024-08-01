@@ -493,6 +493,8 @@ github.com/cedar-policy/cedar-go v0.0.0-20240318205125-470d1fe984bb h1:WaOlZeLno
 github.com/cedar-policy/cedar-go v0.0.0-20240318205125-470d1fe984bb/go.mod h1:qZuNWmkhx7pxkYvgmNPcBE4NtfGBF6nmI+bjecaQp14=
 github.com/cloudflare/circl v1.3.7 h1:qlCDlTPz2n9fu58M0Nh1J/JzcFpfgkFHHX3O35r5vcU=
 github.com/cloudflare/circl v1.3.7/go.mod h1:sRTcRWXGLrKw6yIGJ+l7amYJFfAXbZG0kBSc8r4zxgA=
+github.com/cloutierMat/terraform-plugin-sdk/v2 v2.34.0 h1:SeZmco2+txRkbk9SQmpks9hZnhRrweLvzJ40yAL7y+A=
+github.com/cloutierMat/terraform-plugin-sdk/v2 v2.34.0/go.mod h1:sl/UoabMc37HA6ICVMmGO+/0wofkVIRxf+BMb/dnoIg=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/cyphar/filepath-securejoin v0.2.4 h1:Ugdm7cg7i6ZK6x3xDF1oEu1nfkyfH53EtKeQYTC3kyg=
 github.com/cyphar/filepath-securejoin v0.2.4/go.mod h1:aPGpWjXOXUn2NCNjFvBE6aRxGGx79pTxQpKOJNYHHl4=
@@ -598,8 +600,6 @@ github.com/hashicorp/terraform-plugin-go v0.23.0 h1:AALVuU1gD1kPb48aPQUjug9Ir/12
 github.com/hashicorp/terraform-plugin-go v0.23.0/go.mod h1:1E3Cr9h2vMlahWMbsSEcNrOCxovCZhOOIXjFHbjc/lQ=
 github.com/hashicorp/terraform-plugin-mux v0.16.0 h1:RCzXHGDYwUwwqfYYWJKBFaS3fQsWn/ZECEiW7p2023I=
 github.com/hashicorp/terraform-plugin-mux v0.16.0/go.mod h1:PF79mAsPc8CpusXPfEVa4X8PtkB+ngWoiUClMrNZlYo=
-github.com/hashicorp/terraform-plugin-sdk/v2 v2.34.0 h1:kJiWGx2kiQVo97Y5IOGR4EMcZ8DtMswHhUuFibsCQQE=
-github.com/hashicorp/terraform-plugin-sdk/v2 v2.34.0/go.mod h1:sl/UoabMc37HA6ICVMmGO+/0wofkVIRxf+BMb/dnoIg=
 github.com/hashicorp/terraform-plugin-testing v1.9.0 h1:xOsQRqqlHKXpFq6etTxih3ubdK3HVDtfE1IY7Rpd37o=
 github.com/hashicorp/terraform-plugin-testing v1.9.0/go.mod h1:fhhVx/8+XNJZTD5o3b4stfZ6+q7z9+lIWigIYdT6/44=
 github.com/hashicorp/terraform-registry-address v0.2.3 h1:2TAiKJ1A3MAkZlH1YI/aTVcLZRu7JseiXNRHbOAyoTI=

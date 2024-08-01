@@ -342,3 +342,5 @@ require (
 )
 
 replace github.com/hashicorp/terraform-plugin-log => github.com/gdavison/terraform-plugin-log v0.0.0-20230928191232-6c653d8ef8fb
+
+replace github.com/hashicorp/terraform-plugin-sdk/v2 => github.com/cloutierMat/terraform-plugin-sdk/v2 v2.34.0

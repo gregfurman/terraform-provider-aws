@@ -34,6 +34,9 @@ checksum:
           name_template: "{{ .ProjectName }}_{{ .Version }}_manifest.json"
     name_template: "{{ .ProjectName }}_{{ .Version }}_SHA256SUMS"
 release:
+    github:
+      owner: gregfurman
+      name: terraform-provider-aws
     extra_files:
         - glob: "terraform-registry-manifest.json"
           name_template: "{{ .ProjectName }}_{{ .Version }}_manifest.json"
